@@ -1,4 +1,9 @@
 # SERIAL-IN-SERIAL-OUT-SHIFTREGISTER
+Name: Abisheik Raj J 
+
+reg no:212224230006
+
+Date:13/05/2025 
 
 **AIM:**
 
